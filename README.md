@@ -1,5 +1,6 @@
 # WebI2C
-WebI2C API polyfill implementation for CHIRIMEN
+WebI2C API polyfill implementation for CHIRIMEN is 
+https://github.com/browserobo/WebI2C/implementations/Gecko
 
 Specification for this implementation is https://github.com/browserobo/WebI2C
 
