@@ -2,7 +2,7 @@
 WebI2C API polyfill implementation for CHIRIMEN is 
 https://github.com/browserobo/WebI2C/implementations/Gecko
 
-Specification for this implementation is https://github.com/browserobo/WebI2C
+Specification for this implementation is https://github.com/browserobo/WebI2C/tree/master/implementations/Gecko
 
 ## how to use
 This implementations requires mozi2c enabled CHIRIMEN firmware
